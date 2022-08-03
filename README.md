@@ -35,6 +35,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/mracalf/mracalf/blob/output/snake.svg" alt="Snake animation" />
+![<img href="https://raw.githubusercontent.com/mracalf/mracalf/blob/output/snake.svg" alt="Snake animation" />](https://raw.githubusercontent.com/MrAcalf/mracalf/output/github-contribution-grid-snake.gif)
 
 ###
