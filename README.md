@@ -1,3 +1,9 @@
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/mracalf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="40" alt="linkedin logo"  />
+</div>
+
 <h1 align="left">Hi there. I am Antônio.</h1>
 
 ###
@@ -15,20 +21,6 @@
 ###
 
 <p align="left">I'm developing front-end using React.js, Next.js, React Native, Redux, Styled-Componentes, Matherial UI, Ant Design, axios and GraphQl.<br><br>I'm developing Back End using AWS Serverless Lambdas, Api Gateway, SNS, SQS, DynamoDB, Sequelize, SQL, Clean Architecture, TDD and Dynamo Single Table Design.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mracalf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/antonio.araujol/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="92" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/mracalf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="92" height="40" alt="facebook logo"  />
-  </a>
-</div>
 
 ###
 
