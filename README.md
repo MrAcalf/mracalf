@@ -1,10 +1,14 @@
 
 <div align="right">
+
   <a href="https://www.linkedin.com/in/mracalf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="40" alt="linkedin logo"  />
+    
 </div>
 
-<h1 align="left">Hi there. I am Antônio.</h1>
+###
+
+# Hi there. I am Antônio. @mracalf
 
 ###
 
@@ -16,7 +20,7 @@
 
 ###
 
-<h3 align="left">I'm full stack JS/TS developer at luby software</h3>
+### I'm full stack JS/TS developer at [Luby Software](https://luby.com.br/)
 
 ###
 
