@@ -10,16 +10,6 @@
 
 # Hi there. I am Antônio. @mracalf
 
-###
-
-<div align="center">
-
-<a href="https://app.daily.dev/mracalf"><img src="https://api.daily.dev/devcards/fb326f5d5eaf40b7af36b1ff90b9f9c0.png?r=6pu" width="200" alt="Antônio Carlos de Araújo Lima Filho's Dev Card" target="_blank" /></a>
-  
-</div>
-
-###
-
 ### I'm full stack JS/TS developer at [Luby Software](https://luby.com.br/)
 
 ###
