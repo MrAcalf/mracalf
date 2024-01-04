@@ -10,16 +10,6 @@
 
 # Hi there. I am Antônio. @mracalf
 
-###
-
-<div align="center">
-
-<a href="https://app.daily.dev/mracalf"><img src="https://api.daily.dev/devcards/fb326f5d5eaf40b7af36b1ff90b9f9c0.png?r=6pu" width="200" alt="Antônio Carlos de Araújo Lima Filho's Dev Card" target="_blank" /></a>
-  
-</div>
-
-###
-
 ### I'm full stack JS/TS developer at [Luby Software](https://luby.com.br/)
 
 ###
@@ -32,14 +22,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mracalf" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mracalf" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  
-![snake_animation](https://github.com/MrAcalf/mracalf/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 ###
