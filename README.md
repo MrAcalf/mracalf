@@ -1,6 +1,9 @@
 
 <div align="right">
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mracalf" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mracalf?trk=profile-badge">Antônio Carlos D.</a></div>
+              
+
   <a href="https://www.linkedin.com/in/mracalf/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="40" alt="linkedin logo"  />
     
