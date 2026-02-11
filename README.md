@@ -1,85 +1,76 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Antônio Araújo!</h1>
-  <p><b>Senior Full Stack Developer | React, Node.js & Cloud Architect</b></p>
-  <p>📍 <b>Based in Brazil / São Paulo</b> 🇧🇷</p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mracalf/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Antônio Araújo LinkedIn Profile" />
-    </a>
-    <a href="mailto:antonio.araujol@outlook.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Antônio Araújo via Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=mracalf&color=blue&style=flat-square&label=VISITORS" alt="Profile Visitor Counter for mracalf" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" />
+  <h1>Antônio Araújo</h1>
+  <p><b>Senior Software Engineer | Cloud Architect | Full Stack Consultant</b></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/mracalf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:antonio.araujol@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,aws,postgres,docker,githubactions" width="450" />
 </div>
 
----
-
-### 🚀 About Me
-
-I am a **Full Stack Developer** and **Software Engineer** dedicated to building high-performance, scalable, and user-centric web applications. My expertise lies in the **modern JavaScript ecosystem** (React/Next.js) and **Cloud Native architectures** (AWS).
-
-- 🏢 **Professional Experience**: Specialized in integrating robust front-end interfaces with complex cloud backends.
-- �️ **Location**: Remote-friendly developer based in **São Paulo, Brazil**.
-- 🛠️ **Current Focus**: Architecting scalable solutions using **AWS Lambda**, **PostgreSQL**, and **Microservices**.
-- 💬 **Expertise**: Let's talk about **React Server Components, Clean Architecture, or AWS Optimization**.
-
----
-
-### 💻 Technical Stack & Skills
+<br><hr><br>
 
 <div align="center">
-
-| **Frontend Development** | **Backend & Cloud Computing** | **Engineering Tools** |
-| :--- | :--- | :--- |
-| ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js Runtime](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git Version Control](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Next.js Framework](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Amazon Web Services (AWS)](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Docker Containers](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Serverless AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) | ![Jest Testing](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) |
-| ![Redux State Management](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) | ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) | ![TDD - Test Driven Development](https://img.shields.io/badge/TDD-000000?style=flat-square) |
-| ![GraphQL API Queries](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![PostgreSQL Database](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Clean Software Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square) |
-
-</div>
-
----
-
-### 📊 GitHub Analytics & Impact
-
-<div align="center">
+  <h3>🏛️ Technical Leadership & Expertise</h3>
   <table border="0">
     <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/github-stats.svg" alt="Antônio Araújo GitHub Performance Stats" />
+      <td width="300" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="55" /><br>
+        <b>Frontend Architecture</b><br>
+        <p align="center"><i>Next.js, TypeScript, React</i></p>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mracalf&theme=dracula&hide_border=true" alt="GitHub Contribution Streak for mracalf" />
+      <td width="300" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="55" /><br>
+        <b>Cloud & Backend</b><br>
+        <p align="center"><i>Node.js, AWS, Microservices</i></p>
+      </td>
+      <td width="300" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="55" /><br>
+        <b>Engineering Quality</b><br>
+        <p align="center"><i>Clean Arch, TDD, CI/CD</i></p>
       </td>
     </tr>
   </table>
 </div>
 
-### 🎨 3D Visualization: Yearly Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/profile-3d-contrib/profile-night-view.svg" alt="3D isometric contribution graph for software engineering progress" width="100%" />
-</p>
-
-### 📈 Language Distribution & Commit Habits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/github-metrics.svg" alt="Detailed GitHub coding metrics and language statistics" width="100%" />
-</p>
-
----
-
-### 🐍 The Coding Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mracalf/mracalf/output/github-contribution-grid-snake.svg" alt="Animated snake game tracing GitHub contributions" />
-</p>
-
----
+<br><hr><br>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <h3>📈 Engineering Intelligence Dashboard</h3>
+  <table border="0">
+    <tr>
+      <td width="48%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/github-stats.svg" width="100%" />
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mracalf&theme=dracula&hide_border=true" width="100%" />
+      </td>
+      <td width="4%"></td>
+      <td width="48%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/github-metrics.svg" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><hr><br>
+
+<div align="center">
+  <h3>🎨 Contribution Landscape (Isometric)</h3>
+  <p>A transparent, theme-adaptive view of engineering consistency.</p>
+  <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/github-isocalendar.svg" width="750" />
+</div>
+
+<br><hr><br>
+
+<div align="center">
+  <h3>🐍 Connectivity Flow</h3>
+  <img src="https://raw.githubusercontent.com/mracalf/mracalf/output/github-contribution-grid-snake.svg" width="600" />
+  <br><br>
+  <p><i>"Software excellence is the result of intention, effort, and execution."</i></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mracalf&color=555555&style=flat-square&label=VISITORS" />
 </div>
