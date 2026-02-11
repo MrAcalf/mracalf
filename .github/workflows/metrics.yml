@@ -15,11 +15,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           output_action: commit
-
-          # Options
           user: mracalf
           template: classic
           base: header, activity, community, repositories, metadata
@@ -38,3 +37,20 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 10
+
+  github-stats-card:
+    runs-on: ubuntu-latest
+    environment: Profile environments
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          output_action: commit
+          user: mracalf
+          template: classic
+          base: header
+          config_timezone: America/Sao_Paulo
