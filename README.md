@@ -1,6 +1,6 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Antônio Araújo! 
-<img src="https://hits.dwyl.com/mracalf/mracalf.svg?style=flat-square&show=unique" alt="Visitor Counter" align="right" />
+<img src="https://komarev.com/ghpvc/?username=mracalf&color=blue&style=flat-square&label=VISITORS" alt="Visitor Counter" align="right" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mracalf/" target="_blank">
@@ -65,6 +65,22 @@ I am a **Full Stack Developer** passionate about building scalable, efficient, a
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mracalf/mracalf/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🎨 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/profile-3d-contrib/profile.svg" alt="3D Profile" />
+</p>
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mracalf/mracalf/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
