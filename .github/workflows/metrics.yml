@@ -9,6 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: METRICS_TOKEN
     permissions:
       contents: write
     steps:
