@@ -15,8 +15,6 @@
 
 # Hi there. I am Antônio. @mracalf
 
-### I'm full stack JS/TS developer at [Luby Software](https://luby.com.br/)
-
 ###
 
 <p align="left">I'm developing front-end using React.js, Next.js, React Native, Redux, Styled-Componentes, Matherial UI, Ant Design, axios and GraphQl.<br><br>I'm developing Back End using AWS Serverless Lambdas, Api Gateway, SNS, SQS, DynamoDB, Sequelize, SQL, Clean Architecture, TDD and Dynamo Single Table Design.</p>
